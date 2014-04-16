@@ -1,3 +1,4 @@
+package rach.one;
 
 public class Test {
 
@@ -15,8 +16,23 @@ public class Test {
 //		int d2 = Distance.distanceBetweenCoordinates(-100, -200);
 //		print(Integer.toString(d2));
 		
-		print(Double.toString(Distance.getPercentageOf(10.0, 1000)));
+		//print(Double.toString(Distance.getPercentageOf(10.0, 1000)));
 		
+		AnonClass ac = new AnonClass() {
+
+			@Override
+			public void doSomethingElse() {
+				// TODO Auto-generated method stub
+				
+			}
+			
+			@Override
+			public void doSomething() {
+				// TODO Auto-generated method stub
+				
+			}
+			
+		};
 		
 	}
 

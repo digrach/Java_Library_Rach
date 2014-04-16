@@ -1,3 +1,4 @@
+package rach.one;
 
 public class Distance {
 	
