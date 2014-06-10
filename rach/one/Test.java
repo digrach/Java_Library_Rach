@@ -3,6 +3,9 @@ package rach.one;
 public class Test {
 
 	public static void main(String[] args) {
+		
+//		CollisionDetection1 cd1 = new CollisionDetection1();
+//		cd1.setRunning(true);
 		//		RandomNumbers rn = new RandomNumbers();
 		//		print(Double.toString(rn.randomDoubleInRange()));
 
